@@ -1,0 +1,863 @@
+The system is: Darwin - 14.5.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+2015-10-06 21:17:55.606 xcodebuild[20686:797418] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:55.642 xcodebuild[20686:797418] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:55.643 xcodebuild[20686:797418] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:55.643 xcodebuild[20686:797418] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:55.643 xcodebuild[20686:797418] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:55.644 xcodebuild[20686:797418] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:55.644 xcodebuild[20686:797418] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET CompilerIdC OF PROJECT CompilerIdC WITH THE DEFAULT CONFIGURATION (Debug) ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+chmod 0755 /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap
+
+CompileC CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o CMakeCCompilerId.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CMakeCCompilerId.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.o
+
+Ld CompilerIdC normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList -mmacosx-version-min=10.11 -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC
+
+PhaseScriptExecution Run\ Script CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC
+    /bin/sh -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC"
+
+The C compiler identification is AppleClang, found in "/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdC/CompilerIdC"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+2015-10-06 21:17:56.139 xcodebuild[20699:797514] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:56.176 xcodebuild[20699:797514] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.176 xcodebuild[20699:797514] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.177 xcodebuild[20699:797514] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.177 xcodebuild[20699:797514] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.178 xcodebuild[20699:797514] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.178 xcodebuild[20699:797514] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET CompilerIdCXX OF PROJECT CompilerIdCXX WITH THE DEFAULT CONFIGURATION (Debug) ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+chmod 0755 /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap
+
+CompileC CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o CMakeCXXCompilerId.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.11 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.o
+
+Ld CompilerIdCXX normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList -mmacosx-version-min=10.11 -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX
+
+PhaseScriptExecution Run\ Script CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX
+    /bin/sh -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+GCC_VERSION=com.apple.compilers.llvm.clang.1_0
+
+** BUILD SUCCEEDED **
+
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX"
+
+The CXX compiler identification is AppleClang, found in "/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/3.3.2/CompilerIdCXX/CompilerIdCXX"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_b52a2" "-configuration" "Debug"
+2015-10-06 21:17:56.698 xcodebuild[20715:797578] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:56.737 xcodebuild[20715:797578] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.738 xcodebuild[20715:797578] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.738 xcodebuild[20715:797578] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.738 xcodebuild[20715:797578] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.739 xcodebuild[20715:797578] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:56.739 xcodebuild[20715:797578] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_b52a2 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/Objects-normal/x86_64/cmTC_b52a2.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/Objects-normal/x86_64/testCCompiler.o testCCompiler.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/Objects-normal/x86_64/testCCompiler.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/Objects-normal/x86_64/testCCompiler.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/testCCompiler.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/Objects-normal/x86_64/testCCompiler.o
+
+Ld Debug/cmTC_b52a2 normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/Objects-normal/x86_64/cmTC_b52a2.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b52a2.build/Objects-normal/x86_64/cmTC_b52a2_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_b52a2
+
+** BUILD SUCCEEDED **
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_8a6e1" "-configuration" "Debug"
+2015-10-06 21:17:57.219 xcodebuild[20730:797635] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:57.258 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.258 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.259 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.259 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.260 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.260 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_8a6e1 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/CMakeCCompilerABI.o /Applications/CMake.app/Contents/share/cmake-3.3/Modules/CMakeCCompilerABI.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/CMakeCCompilerABI.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/CMakeCCompilerABI.dia -c /Applications/CMake.app/Contents/share/cmake-3.3/Modules/CMakeCCompilerABI.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/CMakeCCompilerABI.o
+
+Ld Debug/cmTC_8a6e1 normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList -mmacosx-version-min=10.11 -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_8a6e1
+Apple LLVM version 7.0.0 (clang-700.0.72)
+Target: x86_64-apple-darwin14.5.0
+Thread model: posix
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_8a6e1 -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug
+@(#)PROGRAM:ld  PROJECT:ld64-253.3.3
+configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib
+Framework search paths:
+	/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/
+
+** BUILD SUCCEEDED **
+
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_8a6e1" "-configuration" "Debug"]
+  ignore line: [2015-10-06 21:17:57.219 xcodebuild[20730:797635] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present]
+  ignore line: [2015-10-06 21:17:57.258 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:57.258 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:57.259 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:57.259 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:57.260 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:57.260 xcodebuild[20730:797635] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [=== BUILD TARGET cmTC_8a6e1 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===]
+  ignore line: []
+  ignore line: [Check dependencies]
+  ignore line: []
+  ignore line: [Write auxiliary files]
+  ignore line: [/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64]
+  ignore line: [write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList]
+  ignore line: []
+  ignore line: [CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/CMakeCCompilerABI.o /Applications/CMake.app/Contents/share/cmake-3.3/Modules/CMakeCCompilerABI.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler]
+  ignore line: [    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp]
+  ignore line: [    export LANG=en_US.US-ASCII]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/CMakeCCompilerABI.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/CMakeCCompilerABI.dia -c /Applications/CMake.app/Contents/share/cmake-3.3/Modules/CMakeCCompilerABI.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/CMakeCCompilerABI.o]
+  ignore line: []
+  ignore line: [Ld Debug/cmTC_8a6e1 normal x86_64]
+  ignore line: [    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp]
+  ignore line: [    export MACOSX_DEPLOYMENT_TARGET=10.11]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList -mmacosx-version-min=10.11 -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_8a6e1]
+  ignore line: [Apple LLVM version 7.0.0 (clang-700.0.72)]
+  ignore line: [Target: x86_64-apple-darwin14.5.0]
+  ignore line: [Thread model: posix]
+  reduced line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_8a6e1 -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug]
+            to: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_8a6e1 -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a ]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_8a6e1 -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1_dependency_info.dat -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a ]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-macosx_version_min] ==> ignore
+    arg [10.11.0] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_8a6e1] ==> ignore
+    arg [-filelist] ==> ignore
+    arg [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1.LinkFileList] ==> ignore
+    arg [-v] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-dependency_info] ==> ignore
+    arg [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8a6e1.build/Objects-normal/x86_64/cmTC_8a6e1_dependency_info.dat] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib]
+  Framework search paths: [;/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  collapse lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug] ==> [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib]
+  collapse framework dir [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug] ==> [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks]
+  implicit libs: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a]
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks]
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_bb3fe" "-configuration" "Debug"
+2015-10-06 21:17:57.760 xcodebuild[20745:797682] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:57.797 xcodebuild[20745:797682] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.798 xcodebuild[20745:797682] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.798 xcodebuild[20745:797682] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.798 xcodebuild[20745:797682] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.799 xcodebuild[20745:797682] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:57.799 xcodebuild[20745:797682] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_bb3fe OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/Objects-normal/x86_64/cmTC_bb3fe.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/Objects-normal/x86_64/feature_tests.o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -std=c11 -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/Objects-normal/x86_64/feature_tests.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_bb3fe normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/Objects-normal/x86_64/cmTC_bb3fe.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_bb3fe.build/Objects-normal/x86_64/cmTC_bb3fe_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_bb3fe
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_9eca8" "-configuration" "Debug"
+2015-10-06 21:17:58.275 xcodebuild[20768:797740] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:58.311 xcodebuild[20768:797740] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.312 xcodebuild[20768:797740] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.312 xcodebuild[20768:797740] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.313 xcodebuild[20768:797740] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.313 xcodebuild[20768:797740] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.314 xcodebuild[20768:797740] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_9eca8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/Objects-normal/x86_64/cmTC_9eca8.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/Objects-normal/x86_64/feature_tests.o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -std=c99 -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/Objects-normal/x86_64/feature_tests.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_9eca8 normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/Objects-normal/x86_64/cmTC_9eca8.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_9eca8.build/Objects-normal/x86_64/cmTC_9eca8_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_9eca8
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_1291b" "-configuration" "Debug"
+2015-10-06 21:17:58.795 xcodebuild[20783:797791] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:58.832 xcodebuild[20783:797791] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.833 xcodebuild[20783:797791] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.833 xcodebuild[20783:797791] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.834 xcodebuild[20783:797791] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.834 xcodebuild[20783:797791] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:58.835 xcodebuild[20783:797791] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_1291b OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/Objects-normal/x86_64/cmTC_1291b.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/Objects-normal/x86_64/feature_tests.o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -std=c90 -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/Objects-normal/x86_64/feature_tests.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_1291b normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/Objects-normal/x86_64/cmTC_1291b.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1291b.build/Objects-normal/x86_64/cmTC_1291b_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_1291b
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_36a0b" "-configuration" "Debug"
+2015-10-06 21:17:59.329 xcodebuild[20798:797839] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:59.365 xcodebuild[20798:797839] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.366 xcodebuild[20798:797839] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.366 xcodebuild[20798:797839] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.367 xcodebuild[20798:797839] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.367 xcodebuild[20798:797839] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.368 xcodebuild[20798:797839] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_36a0b OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/Objects-normal/x86_64/cmTC_36a0b.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/Objects-normal/x86_64/testCXXCompiler.o testCXXCompiler.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/Objects-normal/x86_64/testCXXCompiler.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/Objects-normal/x86_64/testCXXCompiler.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/testCXXCompiler.cxx -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/Objects-normal/x86_64/testCXXCompiler.o
+
+Ld Debug/cmTC_36a0b normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/Objects-normal/x86_64/cmTC_36a0b.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_36a0b.build/Objects-normal/x86_64/cmTC_36a0b_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_36a0b
+
+** BUILD SUCCEEDED **
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_6a271" "-configuration" "Debug"
+2015-10-06 21:17:59.837 xcodebuild[20813:797887] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:17:59.874 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.874 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.875 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.875 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.876 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:17:59.876 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_6a271 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o /Applications/CMake.app/Contents/share/cmake-3.3/Modules/CMakeCXXCompilerABI.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/CMakeCXXCompilerABI.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/CMakeCXXCompilerABI.dia -c /Applications/CMake.app/Contents/share/cmake-3.3/Modules/CMakeCXXCompilerABI.cpp -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o
+
+Ld Debug/cmTC_6a271 normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList -mmacosx-version-min=10.11 -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_6a271
+Apple LLVM version 7.0.0 (clang-700.0.72)
+Target: x86_64-apple-darwin14.5.0
+Thread model: posix
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_6a271 -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug
+@(#)PROGRAM:ld  PROJECT:ld64-253.3.3
+configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib
+Framework search paths:
+	/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/
+
+** BUILD SUCCEEDED **
+
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_6a271" "-configuration" "Debug"]
+  ignore line: [2015-10-06 21:17:59.837 xcodebuild[20813:797887] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present]
+  ignore line: [2015-10-06 21:17:59.874 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:59.874 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:59.875 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:59.875 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:59.876 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [2015-10-06 21:17:59.876 xcodebuild[20813:797887] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs]
+  ignore line: [=== BUILD TARGET cmTC_6a271 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===]
+  ignore line: []
+  ignore line: [Check dependencies]
+  ignore line: []
+  ignore line: [Write auxiliary files]
+  ignore line: [/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64]
+  ignore line: [write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList]
+  ignore line: []
+  ignore line: [CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o /Applications/CMake.app/Contents/share/cmake-3.3/Modules/CMakeCXXCompilerABI.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler]
+  ignore line: [    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp]
+  ignore line: [    export LANG=en_US.US-ASCII]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/CMakeCXXCompilerABI.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/CMakeCXXCompilerABI.dia -c /Applications/CMake.app/Contents/share/cmake-3.3/Modules/CMakeCXXCompilerABI.cpp -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/CMakeCXXCompilerABI.o]
+  ignore line: []
+  ignore line: [Ld Debug/cmTC_6a271 normal x86_64]
+  ignore line: [    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp]
+  ignore line: [    export MACOSX_DEPLOYMENT_TARGET=10.11]
+  ignore line: [    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList -mmacosx-version-min=10.11 -v -Wl,-v -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_6a271]
+  ignore line: [Apple LLVM version 7.0.0 (clang-700.0.72)]
+  ignore line: [Target: x86_64-apple-darwin14.5.0]
+  ignore line: [Thread model: posix]
+  reduced line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_6a271 -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug]
+            to: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_6a271 -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a ]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -dynamic -arch x86_64 -macosx_version_min 10.11.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_6a271 -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList -v -search_paths_first -headerpad_max_install_names -dependency_info /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271_dependency_info.dat -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a ]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-macosx_version_min] ==> ignore
+    arg [10.11.0] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_6a271] ==> ignore
+    arg [-filelist] ==> ignore
+    arg [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271.LinkFileList] ==> ignore
+    arg [-v] ==> ignore
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-dependency_info] ==> ignore
+    arg [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_6a271.build/Objects-normal/x86_64/cmTC_6a271_dependency_info.dat] ==> ignore
+    arg [-lc++] ==> lib [c++]
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a]
+  Library search paths: [;/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib]
+  Framework search paths: [;/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  collapse lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a]
+  collapse library dir [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug] ==> [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib]
+  collapse framework dir [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug] ==> [/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug], skipping non-system directory
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks]
+  implicit libs: [c++;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.0/lib/darwin/libclang_rt.osx.a]
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks]
+
+
+
+
+Detecting CXX [-std=c++1y] compiler features compiled with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_081d4" "-configuration" "Debug"
+2015-10-06 21:18:00.388 xcodebuild[20828:797937] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:18:00.425 xcodebuild[20828:797937] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.426 xcodebuild[20828:797937] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.426 xcodebuild[20828:797937] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.427 xcodebuild[20828:797937] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.427 xcodebuild[20828:797937] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.428 xcodebuild[20828:797937] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_081d4 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/Objects-normal/x86_64/cmTC_081d4.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/Objects-normal/x86_64/feature_tests.o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -std=c++1y -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/Objects-normal/x86_64/feature_tests.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.cxx -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_081d4 normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/Objects-normal/x86_64/cmTC_081d4.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_081d4.build/Objects-normal/x86_64/cmTC_081d4_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_081d4
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++11] compiler features compiled with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_65f50" "-configuration" "Debug"
+2015-10-06 21:18:00.934 xcodebuild[20843:797987] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:18:00.971 xcodebuild[20843:797987] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.972 xcodebuild[20843:797987] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.972 xcodebuild[20843:797987] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.973 xcodebuild[20843:797987] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.973 xcodebuild[20843:797987] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:00.974 xcodebuild[20843:797987] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_65f50 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/Objects-normal/x86_64/cmTC_65f50.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/Objects-normal/x86_64/feature_tests.o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -std=c++11 -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/Objects-normal/x86_64/feature_tests.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.cxx -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_65f50 normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/Objects-normal/x86_64/cmTC_65f50.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_65f50.build/Objects-normal/x86_64/cmTC_65f50_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_65f50
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++98] compiler features compiled with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_b73e2" "-configuration" "Debug"
+2015-10-06 21:18:01.480 xcodebuild[20858:798036] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:18:01.519 xcodebuild[20858:798036] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:01.520 xcodebuild[20858:798036] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:01.520 xcodebuild[20858:798036] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:01.521 xcodebuild[20858:798036] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:01.521 xcodebuild[20858:798036] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:01.521 xcodebuild[20858:798036] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_b73e2 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/Objects-normal/x86_64/cmTC_b73e2.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/Objects-normal/x86_64/feature_tests.o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -std=c++98 -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/Objects-normal/x86_64/feature_tests.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/Objects-normal/x86_64/feature_tests.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/feature_tests.cxx -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/Objects-normal/x86_64/feature_tests.o
+
+Ld Debug/cmTC_b73e2 normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/Objects-normal/x86_64/cmTC_b73e2.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_b73e2.build/Objects-normal/x86_64/cmTC_b73e2_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_b73e2
+
+** BUILD SUCCEEDED **
+
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:0cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:0cxx_extern_templates
+    Feature record: CXX_FEATURE:0cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:0cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_local_type_template_args
+    Feature record: CXX_FEATURE:0cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:0cxx_nullptr
+    Feature record: CXX_FEATURE:0cxx_override
+    Feature record: CXX_FEATURE:0cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:0cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:0cxx_static_assert
+    Feature record: CXX_FEATURE:0cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:0cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:0cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
+Determining if files pthread.h exist passed with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_8426f" "-configuration" "Debug"
+2015-10-06 21:18:02.256 xcodebuild[20873:798085] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:18:02.292 xcodebuild[20873:798085] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.293 xcodebuild[20873:798085] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.293 xcodebuild[20873:798085] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.293 xcodebuild[20873:798085] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.294 xcodebuild[20873:798085] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.294 xcodebuild[20873:798085] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_8426f OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/Objects-normal/x86_64/cmTC_8426f.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/Objects-normal/x86_64/CheckIncludeFiles.o CheckIncludeFiles.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/Objects-normal/x86_64/CheckIncludeFiles.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/Objects-normal/x86_64/CheckIncludeFiles.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CheckIncludeFiles.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/Objects-normal/x86_64/CheckIncludeFiles.o
+
+Ld Debug/cmTC_8426f normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/Objects-normal/x86_64/cmTC_8426f.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_8426f.build/Objects-normal/x86_64/cmTC_8426f_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_8426f
+
+** BUILD SUCCEEDED **
+
+
+
+Determining if the pthread_create exist passed with the following output:
+Change Dir: /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_1cf4e" "-configuration" "Debug"
+2015-10-06 21:18:02.771 xcodebuild[20888:798134] [MT] DVTPlugInManager: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for IBCanvasColor.ideplugin (me.ryanp.mac.IBCanvasColor) not present
+2015-10-06 21:18:02.808 xcodebuild[20888:798134] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/UncrustifyPlugin.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.809 xcodebuild[20888:798134] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/SCXcodeSwitchExpander.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.809 xcodebuild[20888:798134] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/KSImageNamed.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.810 xcodebuild[20888:798134] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/DerivedData Exterminator.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.810 xcodebuild[20888:798134] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ColorSenseRainbow.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+2015-10-06 21:18:02.811 xcodebuild[20888:798134] [MT] PluginLoading: Required plug-in compatibility UUID 0420B86A-AA43-4792-9ED0-6FE0F2B16A13 for plug-in at path '~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BBUDebuggerTuckAway.xcplugin' not present in DVTPlugInCompatibilityUUIDs
+=== BUILD TARGET cmTC_1cf4e OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+Write auxiliary files
+/bin/mkdir -p /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/Objects-normal/x86_64
+write-file /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/Objects-normal/x86_64/cmTC_1cf4e.LinkFileList
+
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/Objects-normal/x86_64/CheckSymbolExists.o CheckSymbolExists.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export LANG=en_US.US-ASCII
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.11 -g -Wno-sign-conversion -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/include -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/DerivedSources/x86_64 -I/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -MMD -MT dependencies -MF /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/Objects-normal/x86_64/CheckSymbolExists.d --serialize-diagnostics /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/Objects-normal/x86_64/CheckSymbolExists.dia -c /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CheckSymbolExists.c -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/Objects-normal/x86_64/CheckSymbolExists.o
+
+Ld Debug/cmTC_1cf4e normal x86_64
+    cd /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp
+    export MACOSX_DEPLOYMENT_TARGET=10.11
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk -L/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -F/Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug -filelist /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/Objects-normal/x86_64/cmTC_1cf4e.LinkFileList -mmacosx-version-min=10.11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTC_1cf4e.build/Objects-normal/x86_64/cmTC_1cf4e_dependency_info.dat -o /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/Debug/cmTC_1cf4e
+
+** BUILD SUCCEEDED **
+
+
+File /Users/mattga/Downloads/yo_557_2015_mt/Assignment3/SDK/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
