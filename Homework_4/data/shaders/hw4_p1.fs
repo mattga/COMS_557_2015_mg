@@ -1,4 +1,5 @@
-#version 410 core                                                 
+#version 410 core
+// Matthew Gardner, Jiale Feng, Kyle Vansice
 
 uniform sampler2D tex; //this is the texture
 

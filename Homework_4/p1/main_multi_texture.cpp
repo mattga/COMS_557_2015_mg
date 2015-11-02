@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 -. All rights reserved.
 //
 
+// Matthew Gardner, Jiale Feng, Kyle Vansice
+
 // stl include
 #include <iostream>
 #include <string>

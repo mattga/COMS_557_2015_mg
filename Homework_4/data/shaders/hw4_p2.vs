@@ -1,5 +1,6 @@
 #version 330 core
 #define MAX_LIGHTS 10
+// Matthew Gardner, Jiale Feng, Kyle Vansice
 
 // The vertex buffer input
 in vec2 in_TexCoord;

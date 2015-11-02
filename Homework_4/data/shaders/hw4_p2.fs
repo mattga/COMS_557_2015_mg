@@ -1,4 +1,5 @@
 #version 410 core
+// Matthew Gardner, Jiale Feng, Kyle Vansice
 
 uniform sampler2D colorMap;
 uniform sampler2D noiseMap;

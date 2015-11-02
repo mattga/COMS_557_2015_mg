@@ -6,6 +6,8 @@
 //
 //
 
+// Matthew Gardner, Jiale Feng, Kyle Vansice
+
 #include "Texture.h"
 
 #ifdef WIN32

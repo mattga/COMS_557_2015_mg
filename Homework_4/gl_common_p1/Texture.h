@@ -7,6 +7,9 @@
 //
 #pragma once
 
+
+// Matthew Gardner, Jiale Feng, Kyle Vansice
+
 // stl include
 #include <stdio.h>
 #include <iostream>
