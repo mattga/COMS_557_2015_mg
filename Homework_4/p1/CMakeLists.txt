@@ -7,7 +7,7 @@
 cmake_minimum_required(VERSION 2.6)
 
 # Main project name is ARMaker
-project(HCI557_Multi_Texture)
+project(cs557_hw2_p1)
 
 
 set(CFILE_PATH  "${CMAKE_SOURCE_DIR}/../SDK/cmake/")
@@ -29,39 +29,39 @@ include_directories(${GLEW_INCLUDE_DIR})
 include_directories(${GLFW3_INCLUDE_DIR})
 include_directories(${GLM_INCLUDE_DIR})
 include_directories(${OPENGL_INCLUDE_DIR})
-include_directories(${CMAKE_SOURCE_DIR}/../gl_common/)
+include_directories(${CMAKE_SOURCE_DIR}/../gl_common_p1/)
 
 # Add all files to the configuration
 file(GLOB HCI557_Multi_Texture_SRC
 	main_multi_texture.cpp
-    ../gl_common/HCI557Common.cpp
-    ../gl_common/HCI557Common.h
-	../gl_common/controls.cpp
-    ../gl_common/controls.h
-	../gl_common/CoordSystem.cpp
-    ../gl_common/CoordSystem.h
-	../gl_common/GLObject.h
-   	../gl_common/GLObject.cpp
-    ../gl_common/GLSphere.cpp
-    ../gl_common/GLSphere.h
+    ../gl_common_p1/HCI557Common.cpp
+    ../gl_common_p1/HCI557Common.h
+    ../gl_common_p1/controls.cpp
+    ../gl_common_p1/controls.h
+    ../gl_common_p1/CoordSystem.cpp
+    ../gl_common_p1/CoordSystem.h
+    ../gl_common_p1/GLObject.h
+    ../gl_common_p1/GLObject.cpp
+    ../gl_common_p1/GLSphere.cpp
+    ../gl_common_p1/GLSphere.h
     ../gl_common_p1/Shaders.h
-    ../gl_common/Shaders.cpp
-    ../gl_common/Plane3d.h
-    ../gl_common/Plane3d.cpp
+    ../gl_common_p1/Shaders.cpp
+    ../gl_common_p1/Plane3d.h
+    ../gl_common_p1/Plane3d.cpp
     ../gl_common_p1/Texture.h
     ../gl_common_p1/Texture.cpp
-    ../gl_common/HCI557Datatypes.h
-    ../gl_common/GLAppearanceBase.h
-    ../gl_common/GLAppearance.h
-    ../gl_common/GLAppearance.cpp
-    ../gl_common/camera.h
-	../gl_common/camera.cpp
-    ../gl_common/GLObjects3D.h
+    ../gl_common_p1/HCI557Datatypes.h
+    ../gl_common_p1/GLAppearanceBase.h
+    ../gl_common_p1/GLAppearance.h
+    ../gl_common_p1/GLAppearance.cpp
+    ../gl_common_p1/camera.h
+    ../gl_common_p1/camera.cpp
+    ../gl_common_p1/GLObjects3D.h
 )
 
 set(HCI557_RES
-	../data/shaders/multi_texture.fs
-    ../data/shaders/multi_texture.vs
+	../data/shaders/hw4_p1.fs
+    ../data/shaders/hw4_p1.vs
 )
 
 
