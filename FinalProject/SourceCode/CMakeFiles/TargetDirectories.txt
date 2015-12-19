@@ -1,0 +1,3 @@
+/Users/mattga/Documents/yo_557_2015_mt/FinalProject/SourceCode/CMakeFiles/ALL_BUILD.dir
+/Users/mattga/Documents/yo_557_2015_mt/FinalProject/SourceCode/CMakeFiles/HCI557_ObjLoader.dir
+/Users/mattga/Documents/yo_557_2015_mt/FinalProject/SourceCode/CMakeFiles/ZERO_CHECK.dir

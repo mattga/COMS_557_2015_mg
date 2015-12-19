@@ -1,0 +1,38 @@
+Presentation
+
++ Description and demonstration of how our chess will be
+ - images
+ - description of what we will implement
+ - Which criteria will be satisfied
+ - Core features && amazing features (not planning to do)
+
++ Technical detail on how to implement ~ how we structure the
+
++ Some technical challenges
+ - pieces fighting each other
+   - keyframe & multipart animation
+   - fire & earthquake effect
+
+
+Picking
+Animation
+Ray Intersection
+
+Light ~ combined light ~ 4
+Texturing (Material) ~ bump mapping ~ 5
+
+Navigation along a surface: 4 ~ navigating the piece
+Animation with collision detection: 4
+
+Modeling ~ complex object surface 3
+
+Shadow of the piece on the board
+
+Select a piece, Checking collision of moving piece with the board - Minh Truong & Matthew
+Or the collision among pieces when moving by keyboard
+
+Animate the piece to the destination - Matthew
+
+Rotating the board - Tianshuang
+
+Texturing + bump mapping + light - Jiale
